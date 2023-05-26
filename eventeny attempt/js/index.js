@@ -1,0 +1,1 @@
+const submitForm = document.getElementById("submitInitial").submit(); 
